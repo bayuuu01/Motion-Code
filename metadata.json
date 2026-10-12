@@ -1,0 +1,6 @@
+{
+  "name": "Xibay08 Motion Studio",
+  "description": "Studio motion graphics prosedural berbasis kode JavaScript dengan pratinjau deterministik real-time dan ekspor video hingga 4K.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
